@@ -1,0 +1,12 @@
+:root {
+  --color-primary-light: #f2eafd;
+  --color-primary: #7c19ee;
+}
+
+.blog-card {
+  max-width: 330px;
+}
+.blog-card__badge {
+  background-color: var(--color-primary-light);
+  color: var(--color-primary);
+}
